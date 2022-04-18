@@ -1,6 +1,6 @@
 ## Instalacija Quasar frameworka
 
-Instalaciju radite unutar frontend foldera  
+Instalacija se radi unutar frontend foldera  
 _cd frontend_
 
 Instalacija Quasar frameworka  
